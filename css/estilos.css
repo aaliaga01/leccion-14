@@ -1,0 +1,27 @@
+#content {
+width: 100%;
+height:auto;
+margin:0 auto;
+}
+
+h1{
+	text-align: center;
+}
+
+form {
+	width: 70%;
+	height:auto;
+	margin: 0 auto;
+	display:block;
+	text-align:center;
+	}
+
+input{
+	width: 160px;
+	height: 20px;
+}
+
+.boton input{
+	width: 50px;
+	text-align: center;
+}
